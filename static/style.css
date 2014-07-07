@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400);
+
+body {
+  font-family:"Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-top: 4em;
+}
+
+.small {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 2em;
+}
+
+.large {
+    font-weight: 400;
+    font-size: 110px;
+    line-height: 1.2em;
+}
+
+.date {
+    width: 9em !important;
+}
+
+.dateform {
+    margin-top:0.5em;
+}
