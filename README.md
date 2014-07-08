@@ -15,3 +15,7 @@ Edit `pubs.txt` to configure the pubs of your choice. The application will choos
 Live demo
 ---------
 http://www.wherethefuckshallwego.com
+
+Inspiration
+-----------
+You can find a far superior implementation of a similar decision-maker at www.wtfisforlunch.com by the awesome Dan Foreman-Mackey (@dfm).
